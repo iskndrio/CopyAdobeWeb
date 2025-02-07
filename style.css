@@ -2,9 +2,6 @@
     margin-left: 43%;
     margin-top: 1%;
 }
-#see {
-    color: black;
-}
 .container2 {
     border: 3px solid white;
     height: 55%;
@@ -19,4 +16,18 @@
     border-radius: 20px;
     width: 40%;
     margin-left: 105%;
+}
+#cat {
+    margin-left: 3%;
+    width: 60%;
+    margin-top: 3%;
+    height: 65%;
+}
+.card-img {
+    width: 80%;
+    margin-left: 20%;
+}
+#card2 {
+    margin-left: 120%;
+    width: 70;
 }
